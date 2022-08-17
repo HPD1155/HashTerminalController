@@ -1,0 +1,5 @@
+CMD01: Command was not found
+DIR01: Your directory wasn't found by controller
+DIR02: Didn't specify directory
+DIR03: Didn't create name
+DIR04: Name couldn't be created or failed

@@ -1,0 +1,3 @@
+cd: Used to display current directory
+cd [arg]: used to change directory
+echo: used to echo back a message
